@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is YASSINE !
+I'am a french Junior Front-end WEB DEVELOPER !
+
+I love Web Developement, motion design and UX/UI !
+ 
+( I dont have a motto but i'm working on it)
 <!--
 **YassinePerso/YassinePerso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
