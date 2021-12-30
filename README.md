@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is YASSINE !
-I'am a french Junior Front-end WEB DEVELOPER !
+I'am a french Junior Front-end WEB DEVELOPER based in Paris !
 
 I love Web Developement, motion design and UX/UI !
  
