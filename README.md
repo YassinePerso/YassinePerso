@@ -4,8 +4,10 @@ My name is YASSINE !
 I'am a french Junior Front-end WEB DEVELOPER based in Paris !
 
 I love Web Developement, motion design and UX/UI !
+
+/!\/!\  HERE'S MY PORTFOLIO : https://yassine-frontdev.com/  /!\/!\
  
-( I dont have a motto but i'm working on it)
+( I dont have any motto but i'm working on it)
 <!--
 **YassinePerso/YassinePerso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
