@@ -20,7 +20,9 @@ Here is my stack :
   - TERMINAL
 
 /!\/!\  HERE'S MY PORTFOLIO : https://yassine-frontdev.com/  /!\/!\
-NewPortfolio soon
+
+
+FOLIO - v2 - Soon
  
 <!--
 **YassinePerso/YassinePerso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
