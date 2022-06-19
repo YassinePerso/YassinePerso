@@ -12,7 +12,6 @@ Here is my stack :
   - JAVASCRIPT
   - REACT.js
   - NEXT.js
-  - MySQL
   - REDUX
   - GSAP
   - BOOTSTRAP
