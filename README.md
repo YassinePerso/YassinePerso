@@ -5,19 +5,7 @@ I'am a french Junior Front-end WEB DEVELOPER based in Paris !
 
 I love Web Developement, motion design and UX/UI !
 
-Here is my stack :
-  - HTML 
-
-  - CSS/SASS
-  - JAVASCRIPT
-  - REACT.js
-  - NEXT.js
-  - REDUX
-  - GSAP
-  - BOOTSTRAP
-  - GIT
-  - GITHUB
-  - TERMINAL
+- JS developper - Css lover
 
 /!\/!\  HERE'S MY PORTFOLIO : https://yassine-frontdev.com/  /!\/!\
 
