@@ -9,7 +9,7 @@ I love Web Developement, motion design and UX/UI !
 
 /!\/!\  HERE'S MY PORTFOLIO : https://yassine-frontdev.com/  /!\/!\
 
-MAIL : 
+MAIL : yass.crea.dev@gmail.com
 
 
 
