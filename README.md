@@ -7,7 +7,7 @@ I love Web Developement, motion design and UX/UI !
 
 - JS developer - Css lover
 
-/!\/!\  HERE'S MY PORTFOLIO : https://yassine-frontdev.com/  /!\/!\
+/!\/!\  HERE'S MY PORTFOLIO : https://dev-yass.com  /!\/!\
 
 Mail : yass.crea.dev@gmail.com
 
