@@ -1,6 +1,3 @@
-Yassine Boulakhrif
---
-
 **Role**
 --
 Software tester
