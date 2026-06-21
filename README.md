@@ -6,7 +6,7 @@ SOFTWARE TESTER
 > Frameworks : Pytest |
 > Architecture : Page Object Model (POM convention) |
 > CI/CD : Github Actions |
-> API : POstman
+> API : Postman
 ---------------
 
 **MAIL**
