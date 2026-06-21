@@ -5,6 +5,7 @@ SOFTWARE TESTER
 > UI : Selenium - Playwright
 > Frameworks : Pytest -
 > Architecture : Page Object Model (POM convention)
+
 **MAIL**
 --
 yassineboulakhrif75@gmail.com
