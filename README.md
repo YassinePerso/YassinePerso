@@ -1,6 +1,5 @@
-**Role**
+**SOFTWARE TESTER**
 --
-SOFTWARE TESTER
 > Languages : Python - Javascript - TYpescript |
 > UI : Selenium 4 - Playwright |
 > Frameworks : Pytest |
