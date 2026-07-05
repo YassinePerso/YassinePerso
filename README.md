@@ -1,4 +1,4 @@
-**SOFTWARE TESTER**
+**SOFTWARE / QA TESTER**
 --
 > Languages : Python - Javascript - TYpescript |
 > UI : Selenium 4 - Playwright |
