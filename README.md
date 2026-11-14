@@ -7,7 +7,7 @@
 
 **MAIL**
 --
-yassineboulakhrif75@gmail.com
+yass.crea.dev@gmail.com
 
 **LINKEDIN**
 --
