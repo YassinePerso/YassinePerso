@@ -3,8 +3,7 @@
 > Creativity never stops
 ---------------
 
-**SOFTWARE / QA TESTER**
----------------
+
 
 **MAIL**
 --
